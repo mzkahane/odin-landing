@@ -13,7 +13,7 @@ body {
 .header,
 .hero {
     display: flex;
-    background: #1F2937;
+    background: #7668d7;
     color: #F9FAF8;
     align-items: center;
 }
@@ -61,7 +61,7 @@ a,
 
 .hero button {
     color: #F9FAF8;
-    background-color: #3882F6;
+    background-color: #a4a851;
     font-size: 18px;
     font-weight: 700;
     border-radius: 10px;
@@ -85,7 +85,7 @@ a,
 .deck-title {
     text-align: center;
     font-size: 36px;
-    color: #1F2937;
+    color: #7668d7;
     font-weight: 900;
     margin: 50px;
 }
@@ -94,7 +94,7 @@ a,
     border-style: solid;
     border-width: 3px;
     border-radius: 10px;
-    border-color: #3882F6;
+    border-color: #a4a851;
     width: 200px;
     height: 200px;
 }
@@ -109,7 +109,7 @@ a,
 .quote {
     padding: 100px 12.5%;
     background-color: #E5E7EB;
-    color: #1F2937;
+    color: #7668d7;
 }
 
 .quote blockquote {
@@ -133,7 +133,7 @@ a,
 .call .container {
     display: flex;
     justify-content: space-between;
-    background-color: #3882F6;
+    background-color: #a4a851;
     border-radius: 10px;
     padding: 50px 80px;
 }
@@ -149,8 +149,8 @@ a,
 
 .call-left .text {
     font-size: 16px;
-    width: auto;
     font-weight: 400;
+    max-width: 800px;
 }
 
 .call-right {
@@ -158,7 +158,7 @@ a,
 }
 
 .call-right button {
-    background-color: #3882F6;
+    background-color: #a4a851;
     color: #F9FAF8;
     font-size: 18px;
     font-weight: 700;
@@ -171,7 +171,7 @@ a,
 }
 
 .footer {
-    background-color: #1F2937;
+    background-color: #7668d7;
     color: #E5E7EB;
     margin: 0;
     padding: 48px;
